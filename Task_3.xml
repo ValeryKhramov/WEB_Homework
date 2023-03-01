@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <film>
+        <title>Зеленая миля</title>
+        <country>USA</country>
+        <genre>Драма</genre>
+        <director>Фрэнк Дарабонт</director>
+        <year>1999</year>
+        <mainRole>Том Хэнкс</mainRole>
+    </film>
+    <film>
+        <title>Список Шиндлера</title>
+        <country>USA</country>
+        <genre>Драма</genre>
+        <director>Стивен Спилберг</director>
+        <year>1993</year>
+        <mainRole>Лиам Нисон</mainRole>
+    </film>
+    <film>
+        <title>Побег из Шоушенка</title>
+        <country>USA</country>
+        <genre>Драма</genre>
+        <director>Фрэнк Дарабонт</director>
+        <year>1994</year>
+        <mainRole>Тим Роббинс</mainRole>
+    </film>
+    <film>
+        <title>Форрест Гамп</title>
+        <country>USA</country>
+        <genre>Драма</genre>
+        <director>Роберт Земекис</director>
+        <year>1994</year>
+        <mainRole>Том Хэнкс</mainRole>
+    </film>
+    <film>
+        <title>Тайна КОКО</title>
+        <country>USA</country>
+        <genre>Мультфильм</genre>
+        <director>Ли Анкрич</director>
+        <year>2017</year>
+        <mainRole>Энтони Гонсалес</mainRole>
+    </film>
+</catalog>
